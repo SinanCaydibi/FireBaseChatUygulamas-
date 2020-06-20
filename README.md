@@ -1,2 +1,0 @@
-# FireBaseChatUygulamas-
-FİrebaseileChatuygulaması

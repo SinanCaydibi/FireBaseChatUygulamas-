@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "298840355663",
+    "firebase_url": "https://staj-2422b.firebaseio.com",
+    "project_id": "staj-2422b",
+    "storage_bucket": "staj-2422b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:298840355663:android:bbc4f5ea6e55155f208b3a",
+        "android_client_info": {
+          "package_name": "com.example.sinchatapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "298840355663-o8rjhrq0otgld3q3rql421v77j68sgrc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.sinchatapp",
+            "certificate_hash": "e9433422338987b20a4e4da0dc5dd3bc7731f09d"
+          }
+        },
+        {
+          "client_id": "298840355663-l6eq6oimveajk62qn0lt15ngn7ui8nev.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBObISs6jGiJmpLTfsi-UjPuQlThhuN0xQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "298840355663-l6eq6oimveajk62qn0lt15ngn7ui8nev.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
